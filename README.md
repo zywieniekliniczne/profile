@@ -1,4 +1,4 @@
-## **Opiekun**
+### **Opiekun**
 
 - dr n. med. Bartosz Kudliński - Kierownik Zakładu Anestezjologii, Intensywnej Terapii i Medycyny Ratunkowej Wydziału Lekarskiego i Nauk o Zdrowiu Uniwersytetu Zielonogórskiego;
 Kierownik Klinicznego Oddziału Anestezjologii i Intensywnej Terapii Szpitala Uniwersyteckiego im. K. Marcinkowskiego w Zielonej Górze; 
