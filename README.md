@@ -13,6 +13,6 @@ Członek Wspierający SKN z zakresu Chorób Wewnętrznych i Nefrologii
 
 ### **Zarząd Koła**
 
-- Jan Nicikowski
+- Jan Nicikowski - przewodniczący
 - Ewa Stryjewska
 - Joanna Łopińska
