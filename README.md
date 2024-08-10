@@ -11,7 +11,7 @@ Kontakt: b.kudlinski@inz.uz.zgora.pl
 Członek Zarządu Ogólnopolskie Stowarzyszenie "Nerka";
 Członek Wspierający SKN z zakresu Chorób Wewnętrznych i Nefrologii
 
-## **Zarząd Koła**
+### **Zarząd Koła**
 
 - Jan Nicikowski
 - Ewa Stryjewska
